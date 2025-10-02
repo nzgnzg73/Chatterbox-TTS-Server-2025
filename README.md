@@ -2,6 +2,56 @@
 
 **Self-host the powerful [Chatterbox TTS model](https://github.com/resemble-ai/chatterbox) with this enhanced FastAPI server! Features an intuitive Web UI, a flexible API endpoint, voice cloning, large text processing via intelligent chunking, audiobook generation, and consistent, reproducible voices using built-in ready-to-use voices and a generation seed feature.**
 
+[devnen ✅ Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/tree/main)
+
+
+The owner of this open source project is the one at the link below:
+https://github.com/devnen/Chatterbox-TTS-Server/tree/main
+
+
+
+
+
+
+
+NZG NZG 73 Official - Stable Version of Chatterbox-TTS-Server
+This repository is a modified and stable copy of the
+ original project, [Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/tree/main)
+
+🛑 Important Explanation: Reason for Re-uploading this Code
+
+
+I, the owner of NZG Official, sincerely apologize to the original code owner, [devnen ](https://github.com/devnen)
+
+ (( ✅ [Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/tree/main) ✅), and wish to clarify that my intention is not in any way to infringe upon your copyright or claim ownership of your work.
+I decided to download your repository and re-upload it to my account solely due to personal need and technical constraints:
+ * PC Limitations: I do not have a powerful enough (PC 😭 😔) to run the code you release locally. My computer is very old and lacks a suitable graphics card.
+ * Colab Usage: My primary need is to use this code in the ⚡[Google Colab ](https://github.com/nzgnzg73/Chatterbox-TTS-Server-2025/blob/main/%5BNEW%5D%20Chatterbox-TTS-Server%20(Colab).ipynb) ⚡ [Kaggle ](https://github.com/nzgnzg73/Chatterbox-TTS-Server-2025/blob/main/chatterbox-tts-kaggle.rar)
+    environment.
+ * Updates Conflict: When you release a new update or feature in the original repository, that new code often conflicts or stops working with my existing Colab setup.
+ * My Goal: Therefore, I uploaded a stable version here for personal use so I can maintain a version of the code that runs continuously in Colab without constant daily fixing.
+
+
+🔗 Original Source and Credit
+
+All credit and gratitude for the original project belong to its true creator, (✅ [devnen ](https://github.com/devnen) ✅)
+
+ * ✅ Original Repository Link: https://github.com/devnen/Chatterbox-TTS-Server/tree/main
+ * License: [ Please refer to the original repository's license]
+
+I value your work and am using this copy only out of necessity.
+
+✉📩📧 Contact and Assurance of Immediate Action
+If you have any objection or legal concern regarding my upload of this repository, and you wish to issue a strike, please contact me before taking any action. I will immediately remove these files upon your request.
+
+Contact Email: nzgnzg73@gmail.com
+
+Thank you very much for your understanding and cooperation.
+
+
+
+
+
 > 🚀 **Try it now!** Test the full TTS server with voice cloning and audiobook generation in Google Colab - no installation required!
 > 
 > [![Open Live Demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/devnen/Chatterbox-TTS-Server/blob/main/Chatterbox_TTS_Colab_Demo.ipynb)
