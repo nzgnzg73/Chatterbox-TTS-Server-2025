@@ -26,7 +26,7 @@ I, the owner of NZG Official, sincerely apologize to the original code owner, [d
  (( ✅ [Chatterbox-TTS-Server](https://github.com/devnen/Chatterbox-TTS-Server/tree/main) ✅), and wish to clarify that my intention is not in any way to infringe upon your copyright or claim ownership of your work.
 I decided to download your repository and re-upload it to my account solely due to personal need and technical constraints:
  * PC Limitations: I do not have a powerful enough (PC 😭 😔) to run the code you release locally. My computer is very old and lacks a suitable graphics card.
- * Colab Usage: My primary need is to use this code in the ⚡[Google Colab ](https://colab.research.google.com/drive/1Swu6KtQGM6eF4x2ln2VYecqNybkZ-Fpm?usp=sharing) ⚡ [Kaggle ](https://github.com/nzgnzg73/Chatterbox-TTS-Server-2025/blob/main/chatterbox-tts-kaggle.rar)
+ * Colab Usage: My primary need is to use this code in the ⚡[Google Colab ](https://colab.research.google.com/drive/1QCh2vOrPA-5yr4-77oDCnMl6dyQxn8Mw?usp=sharing) ⚡ [Kaggle ](https://github.com/nzgnzg73/Chatterbox-TTS-Server-2025/blob/main/chatterbox-tts-kaggle.rar)
     environment.
  * Updates Conflict: When you release a new update or feature in the original repository, that new code often conflicts or stops working with my existing Colab setup.
  * My Goal: Therefore, I uploaded a stable version here for personal use so I can maintain a version of the code that runs continuously in Colab without constant daily fixing.
